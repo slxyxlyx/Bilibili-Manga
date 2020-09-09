@@ -35,3 +35,4 @@
 #### 其他项目：
 * [爱奇艺签到](https://github.com/BlueskyClouds/iQIYI-DailyBonus)
 
+确认账号密码修改
